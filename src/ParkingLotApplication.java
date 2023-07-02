@@ -4,8 +4,8 @@ import repositories.ParkingLotRepository;
 import repositories.TicketRepository;
 import repositories.VehicleRepository;
 import services.TicketService;
-import strategies.RandomSpotAssignmentStrategy;
-import strategies.SpotAssignmentStrategy;
+import strategies.spotassignmentstrategy.RandomSpotAssignmentStrategy;
+import strategies.spotassignmentstrategy.SpotAssignmentStrategy;
 
 public class ParkingLotApplication {
     public static void main(String[] args) {

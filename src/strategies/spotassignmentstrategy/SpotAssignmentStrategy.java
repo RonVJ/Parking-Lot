@@ -1,4 +1,4 @@
-package strategies;
+package strategies.spotassignmentstrategy;
 
 import models.Gate;
 import models.ParkingLot;

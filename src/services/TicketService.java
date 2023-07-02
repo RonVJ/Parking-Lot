@@ -7,7 +7,7 @@ import repositories.GateRepository;
 import repositories.ParkingLotRepository;
 import repositories.TicketRepository;
 import repositories.VehicleRepository;
-import strategies.SpotAssignmentStrategy;
+import strategies.spotassignmentstrategy.SpotAssignmentStrategy;
 
 import java.util.Date;
 import java.util.Optional;
